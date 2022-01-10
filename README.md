@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Samuel-DiMaggio
-
 ## About
 
 When I was a kid, I was interested in becoming an astrophysicist. I remember reading so many astronomy related books with illustrations of black holes and massive red stars. In high school, I gravitated towards reading as many books from Physicists and Mathematicians such as Michio Kaku, Stephen Hawking, Paul Dirac, Richard Feynman, Lawrence Krauss, Roger Penrose, and others.
